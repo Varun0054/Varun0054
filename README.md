@@ -1,21 +1,84 @@
-<h1 align="center">Hi 👋, I'm Varun Bhagwat</h1>
-<h3 align="center">A passionate Java / android developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=varun0054&label=Profile%20views&color=0e75b6&style=flat" alt="varun0054" /> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=3F8CFF&background=00000000&center=true&vCenter=true&width=600&lines=Hi+There!+%F0%9F%91%8B+I'm+Varun;A+Passion+Driven+Android+Dev;Building+Mobile+Solutions" alt="Typing SVG" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varun0054" alt="varun0054" /></a> </p>
+<h3 align="center">🚀 Java & Android Developer from India</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/varunbhagwat01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varunbhagwat01" height="30" width="40" /></a>
-<a href="https://instagram.com/varun4___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="varun4___" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/varunbhagwat01" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+  <a href="https://instagram.com/varun4___" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=varun0054&label=Profile%20Views&color=0e75b6&style=flat-square" alt="varun0054" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varun0054&show_icons=true&locale=en&layout=compact" alt="varun0054" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varun0054&show_icons=true&locale=en" alt="varun0054" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varun0054&" alt="varun0054" /></p>
+### ⚡ About Me
+
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+* 🔭 I’m currently working on **Advanced Android Applications**
+* 🌱 I’m currently learning **Flutter & System Design**
+* 👯 I’m looking to collaborate on **Open Source Java Projects**
+* 💬 Ask me about **Java, Android SDK, and Firebase**
+* 📍 Based in **India**
+
+<br/>
+<br/>
+
+---
+
+### 🛠️ Languages and Tools
+
+<div align="center">
+
+| Mobile & Frameworks | Languages | Database & Cloud |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=android,flutter,react" width="50" height="50"/> | <img src="https://skillicons.dev/icons?i=java,python,cpp,dart" width="50" height="50"/> | <img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite,git" width="50" height="50"/> |
+
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=varun0054&theme=tokyonight&no-frame=true&margin-w=15&row=1" alt="varun0054" />
+</a>
+
+<br/><br/>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=varun0054&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="varun0054" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=varun0054&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="varun0054" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=varun0054&theme=tokyonight&hide_border=true&background=0D1117" alt="varun0054" />
+
+</div>
+
+---
+
+<div align="center">
+  <i><b>"Code is like humor. When you have to explain it, it’s bad."</b></i><br>
+  &mdash; <i>Cory House</i>
+</div>
