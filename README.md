@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1f35,100:3F8CFF&height=200&section=header&text=Varun&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Android%20%26%20Java%20Developer%20%7C%20India%20%F0%9F%87%AE%F0%9F%87%B3&descSize=18&descAlignY=58&descColor=94b8ff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:1a1f35,100:3F8CFF&amp;height=200&amp;section=header&amp;text=Varun&amp;fontSize=80&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=Android%20%2B%20Java%20Developer%20%7C%20India%20%F0%9F%87%AE%F0%9F%87%B3&amp;descSize=18&amp;descAlignY=58&amp;descColor=94b8ff&amp;animation=fadeIn" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F8CFF&background=00000000&center=true&vCenter=true&width=500&lines=Hi+There!+%F0%9F%91%8B+I'm+Varun;Passion+Driven+Android+Dev+%F0%9F%9A%80;Building+Mobile+Solutions+%F0%9F%93%B1;Java+Enthusiast+%E2%98%95;Open+Source+Contributor+%F0%9F%8C%9F" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=3F8CFF&amp;background=00000000&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Hi+There!+%F0%9F%91%8B+I'm+Varun;Passion+Driven+Android+Dev+%F0%9F%9A%80;Building+Mobile+Solutions+%F0%9F%93%B1;Java+Enthusiast+%E2%98%95;Open+Source+Contributor+%F0%9F%8C%9F" />
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/varunbhagwat01)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/varun4___)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://linkedin.com/in/varunbhagwat01)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&amp;logo=instagram&amp;logoColor=white)](https://instagram.com/varun4___)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:your-email@gmail.com)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=varun0054&label=Profile+Views&color=3F8CFF&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=varun0054&amp;label=Profile+Views&amp;color=3F8CFF&amp;style=flat-square)
 
 </div>
 
@@ -30,15 +30,15 @@
 public class Varun extends AndroidDeveloper {
 
     String name        = "Varun Bhagwat";
-    String location    = "India 🇮🇳";
+    String location    = "India";
     String focus       = "Android + Java";
 
-    String[] learning  = {"Flutter", "System Design"};
+    String[] learning   = {"Flutter", "System Design"};
     String[] askMeAbout = {"Java", "Android SDK", "Firebase"};
 
-    String collaborate = "Open Source Java Projects";
-    String quote       = "Code is like humor — if you\n"
-                       + "have to explain it, it's bad.";
+    String collaborate  = "Open Source Java Projects";
+    String quote        = "Code is like humor — if you"
+                        + " have to explain it, its bad.";
 }
 ```
 
@@ -52,23 +52,23 @@ public class Varun extends AndroidDeveloper {
 
 **Mobile & Frameworks**
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&amp;logo=android&amp;logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&amp;logo=flutter&amp;logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB)
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&amp;logo=dart&amp;logoColor=white)
 
 **Database & Cloud**
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&amp;logo=firebase&amp;logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white)
 
 </div>
 
@@ -79,17 +79,17 @@ public class Varun extends AndroidDeveloper {
 <div align="center">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=varun0054&theme=tokyonight&no-frame=true&margin-w=12&row=1&no-bg=true" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=varun0054&amp;theme=tokyonight&amp;no-frame=true&amp;margin-w=12&amp;row=1&amp;no-bg=true" alt="Trophies"/>
 </a>
 
 <br/><br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=varun0054&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F8CFF&icon_color=00e5ff&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=varun0054&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F8CFF&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=varun0054&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=3F8CFF&amp;icon_color=00e5ff&amp;text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=varun0054&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=3F8CFF&amp;text_color=c9d1d9" />
 
 <br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=varun0054&theme=tokyonight&hide_border=true&background=0D1117&stroke=3F8CFF&ring=00e5ff&fire=7c4dff&currStreakLabel=3F8CFF" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=varun0054&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;stroke=3F8CFF&amp;ring=00e5ff&amp;fire=7c4dff&amp;currStreakLabel=3F8CFF" />
 
 </div>
 
@@ -99,7 +99,7 @@ public class Varun extends AndroidDeveloper {
 
 ### 🌊 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=varun0054&theme=tokyo-night&bg_color=0D1117&color=3F8CFF&line=00e5ff&point=7c4dff&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=varun0054&amp;theme=tokyo-night&amp;bg_color=0D1117&amp;color=3F8CFF&amp;line=00e5ff&amp;point=7c4dff&amp;hide_border=true)
 
 </div>
 
@@ -108,11 +108,11 @@ public class Varun extends AndroidDeveloper {
 <div align="center">
 
 *❝ Code is like humor. When you have to explain it, it's bad. ❞*
-<br/>
+
 **— Cory House**
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3F8CFF,50:1a1f35,100:0D1117&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:3F8CFF,50:1a1f35,100:0D1117&amp;height=120&amp;section=footer" />
 
 </div>
